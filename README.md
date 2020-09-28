@@ -1,2 +1,4 @@
 # robocar
-Programme for control of robot-car of my son. Robocar works on Arduino Uno controller.
+This project based on micro-controller Atmega 328P.
+Embedded software is written in C++.
+Achievements: I've learned C++ syntax and understood the proper memory usage.
